@@ -1,0 +1,6 @@
+
+ortools==9.14.6206
+numpy>=2.0.0
+pandas>=2.0.0
+protobuf>=4.0.0
+absl-py>=2.0.0
