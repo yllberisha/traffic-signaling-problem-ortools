@@ -50,7 +50,7 @@ The Traffic Signaling problem involves optimizing traffic light schedules at int
 
 3. **Install required packages:**
    ```bash
-   pip install -r requirements.txt
+   pip install ortools==9.14.6206
    ```
 
 ## Usage
